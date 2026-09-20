@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9d7929adf8a40c1aa28fdc4ec8251ee, type: 3}
+  m_Name: MusicPlaylist
+  m_EditorClassIdentifier: 
+  _tracks:
+  - Clip: {fileID: 8300000, guid: b4f504180e2fe4cd8b54f4b50936c6e2, type: 3}
+    Title: Beating Heart
+    Artist: David Renda
+  - Clip: {fileID: 8300000, guid: e6a9abf8afd6243d5a634fae7747b8db, type: 3}
+    Title: Emotion
+    Artist: David Fesliyan
+  - Clip: {fileID: 8300000, guid: d6f532fd409114be78ff545309aa3890, type: 3}
+    Title: Feels Good
+    Artist: David Fesliyan

@@ -6,12 +6,6 @@
       "source": "local-tarball",
       "dependencies": {}
     },
-    "com.cysharp.unitask": {
-      "version": "file:com.cysharp.unitask-2.5.3.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {}
-    },
     "com.mathijsbakker.extenject": {
       "version": "file:com.mathijsbakker.extenject-9.2.0.tgz",
       "depth": 0,
